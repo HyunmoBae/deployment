@@ -28,7 +28,4 @@ spec:
     spec:
       containers:
       - name: fast-con
-        image: 029290955601.dkr.ecr.ap-northeast-2.amazonaws.com/fast:105
-        envFrom:
-        - secretRef:
-            name: db-secret
+        image: 029290955601.dkr.ecr.ap-northeast-2.amazonaws.com/fast:10
