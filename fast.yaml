@@ -28,4 +28,4 @@ spec:
     spec:
       containers:
       - name: fast-con
-        image: bhm99/fast:35
+        image: bhm99/fast:48
